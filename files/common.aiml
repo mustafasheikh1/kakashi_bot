@@ -135,4 +135,11 @@
         <pattern>DO SOMETHING</pattern>
         <template><srai>FINE</srai></template>
     </category>
+    
+    <category>
+        <pattern>STOP</pattern>
+        <template>
+            ok i stopped
+        </template>
+    </category>
 </aiml>
