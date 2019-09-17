@@ -41,8 +41,13 @@
     </category>
     
     <category>
+        <pattern>WHAT IS YOUR NAME?</pattern>
+        <template><srai>WHAT IS YOUR NAME</srai></template>
+    </category>
+    
+    <category>
         <pattern>WHAT IS YOUR NAME *</pattern>
-        <template></template>
+        <template><srai>WHAT IS YOUR NAME</srai></template>
     </category>
     
     <category>

@@ -9,7 +9,6 @@
         <pattern>HI</pattern>
         <template>
             <random>
-                <li>Hi</li>
                 <li>Hi, How are you?</li>
                 <li>Bye, I don't talk to strangers XD, Just kidding Hi, How you doing ?</li>
                 <li>Hi, How are you?</li>
