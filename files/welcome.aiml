@@ -45,7 +45,7 @@
     </category>
     
     <category>
-        <pattern>WHATS UP</pattern>
+        <pattern>WHAT ARE YOU DOING</pattern>
         <template>
             <random>
                 <li>Nothing, What about you ?</li>
@@ -56,8 +56,25 @@
     </category>
     
     <category>
-        <pattern>how do you do</pattern>
-        <template><srai>HI</srai></template>
+        <pattern>WHAT ARE YOU DOING ?</pattern>
+        <template><srai>WHAT ARE YOU DOING</srai></template>
+    </category>
+    <category>
+        <pattern>_ WHAT ARE YOU DOING</pattern>
+        <template><srai>WHAT ARE YOU DOING</srai></template>
+    </category>
+    
+    <category>
+        <pattern>HOW YOU DOING</pattern>
+        <template><srai>WHAT ARE YOU DOING</srai></template>
+    </category>
+    <category>
+        <pattern>_ HOW YOU DOING</pattern>
+        <template><srai>WHAT ARE YOU DOING</srai></template>
+    </category>
+    <category>
+        <pattern>HOW YOU DOING?</pattern>
+        <template><srai>WHAT ARE YOU DOING</srai></template>
     </category>
     
 </aiml>

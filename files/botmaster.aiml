@@ -8,6 +8,16 @@
   
     <category>
         <pattern>WHO IS YOUR MASTER *</pattern>
+        <template><srai>WHO IS YOUR MASTER</srai></template>
+    </category>
+    
+    <category>
+        <pattern>WHO IS YOUR MASTER?</pattern>
+        <template><srai>WHO IS YOUR MASTER</srai></template>
+    </category>
+    
+    <category>
+        <pattern>WHO IS YOUR MASTER</pattern>
         <template>My master is <get name="master"/></template>
     </category>
     
